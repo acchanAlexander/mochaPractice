@@ -2,7 +2,7 @@
   "name": "mochapractice",
   "version": "1.0.0",
   "description": "Practice Node.js test code \"mocha\"",
-  "main": "index.js",
+  "main": "none",
   "scripts": {
     "test": "mocha"
   },
