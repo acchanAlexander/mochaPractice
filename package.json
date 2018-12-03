@@ -1,0 +1,19 @@
+{
+  "name": "mochapractice",
+  "version": "1.0.0",
+  "description": "Practice Node.js test code \"mocha\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acchanAlexander/mochaPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acchanAlexander/mochaPractice/issues"
+  },
+  "homepage": "https://github.com/acchanAlexander/mochaPractice#readme"
+}
