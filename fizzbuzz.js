@@ -1,11 +1,9 @@
 'use strict'
 
-const max = 30;
-
 function fizzbuzz(args) {
   try {
     if (typeof args !== 'number') {
-      throw new Error("type is not number")
+      throw new Error('type is not number');
     }
     
     for(let i = 1; i < args + 1; i++) {
@@ -24,4 +22,4 @@ function fizzbuzz(args) {
   }
 }
 
-fizzbuzz(max);
+module.exports = fizzbuzz;
